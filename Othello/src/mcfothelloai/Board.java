@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Board {
 
     int[][] board;
+    int happy;
     
     Board() {
         this.board = new int[10][10];
